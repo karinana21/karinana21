@@ -1,8 +1,6 @@
 <div align="center">
-  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20There,%20I'm%20Siti!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Tech%20Lover&descAlignY=55&descSize=18" width="100%" />
 
-  <!-- Typing SVG Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ACC7FF&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Siti+Karinah!;Web+Developer+%26+UI%2FUX+Enthusiast;Flutter+%26+Laravel+Developer;Selamat+Datang+di+GitHub+Saya!" alt="Typing SVG" />
   <br><br>
 
