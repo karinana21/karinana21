@@ -31,8 +31,8 @@
 ```javascript
 const developer = {
     name: "Siti Karinah",
-    alias: "karinana21",
-    role: ["Web Developer", "UI/UX Enthusiast", "Mobile Developer"],
+    alias: "karin",
+    role: ["Web Developer", "UI/UX", "Mobile Developer"],
     status: "Exploring new tech & open for collaboration 🌱",
     education: "Informatics Engineering 🎓",
     hobbies: ["Coding", "Designing UI", "Continuous Learning ☕"]
